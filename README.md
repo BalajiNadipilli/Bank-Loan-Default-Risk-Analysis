@@ -20,7 +20,7 @@
   To run this project, you need to have Python and Jupyter Notebook installed. You can install the required dependencies using the following command:  
   pip install pandas numpy matplotlib seaborn missingno  
 
-**Dependencies** 
+**Dependencies**  
 The project requires the following Python libraries:  
 -Pandas  
 -NumPy  
@@ -44,7 +44,7 @@ The dataset used in this analysis includes:
 -Analyzed correlations between different features and target variable.  
 -Assessed applicant details such as contact availability, family members, and region ratings.  
 
-**Results** 
+**Results**  
 -Identified key factors affecting loan defaults.  
 -Found significant correlations between external sources and loan repayment.  
 -Binned income data to observe default rates based on salary ranges.  
